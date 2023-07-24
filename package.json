@@ -31,7 +31,6 @@
     "url": "git+https://github.com/Borewit/peek-readable"
   },
   "license": "MIT",
-  "type": "module",
   "exports": "./lib/index.js",
   "types": "lib/index.d.ts",
   "bugs": {
