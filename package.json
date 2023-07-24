@@ -36,10 +36,6 @@
   "bugs": {
     "url": "https://github.com/Borewit/peek-readable/issues"
   },
-  "files": [
-    "lib/**/*.js",
-    "lib/**/*.d.ts"
-  ],
   "devDependencies": {
     "@types/chai": "^4.3.1",
     "@types/mocha": "^9.1.1",
